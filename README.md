@@ -23,12 +23,12 @@ pip3 install -r requirements.txt
 **For Linux and Mac**
 
 ```
-python3 ZodiacMotion.py
+python3 SearchEph.py
 ```
 
 **For Windows**
 ```
-python ZodiacMotion.py
+python SearchEph.py
 ```
 
 ![img1](https://user-images.githubusercontent.com/29302909/77199420-db7c9f80-6af9-11ea-871b-70a87003d1dc.png)
